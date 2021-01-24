@@ -11,7 +11,7 @@
     "THEME" : "monokai",
     // Ascii Art
     "ASCII_ART" : true,
-    // Hide promt when receive a tweet
+    // Hide prompt when receive a tweet
     "HIDE_PROMPT" : true,
     // Prefix
     "PREFIX" : "#owner#place#me#keyword",
